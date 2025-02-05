@@ -25,8 +25,21 @@ Welcome to my **Python** repository! 🚀 This is where I showcase my Python pro
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-## 🔥 Featured Projects
-📌 **[Project Name]** - A brief description of what this project does.
+## 🔥 Featured Project: Airbnb Market & Price Analysis in NYC 🏠📊
+
+For this project, I analyzed **Airbnb listings in NYC** using **Python** for **data cleaning, transformation, and exploratory analysis** before visualizing insights in Tableau.
+
+📌 **Project Highlights:**
+- **Used Python in Google Colab** to clean and preprocess raw Airbnb data.
+- **Analyzed price distributions**: Most listings fall between **$100 - $160**, with a peak at **$100 - $110**.
+- **Borough Breakdown**:
+  - **Manhattan**: The luxury hub, with the highest prices.
+  - **Brooklyn**: More budget-friendly, with a high number of **private rooms**.
+  - **Queens**: A mix of **entire homes and private rooms** at **moderate prices**.
+  - **Bronx & Staten Island**: Fewer listings, consistently lower prices.
+- **Exploratory Data Analysis (EDA)**: Histogram, boxplots, and correlation analysis to understand market trends.
+
+🔗 **[View the Python Code in Google Colab](Final_Project.ipynb)** 🚀
 
 ## 📈 How to Use
 Clone the repository and run the scripts using Python:
@@ -38,3 +51,4 @@ Clone the repository and run the scripts using Python:
 
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malainine-sayad-2a3365106/)
+
